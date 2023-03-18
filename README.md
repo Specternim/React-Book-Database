@@ -1,4 +1,4 @@
-# react-book-db
+# React-Book-Database
 
 A simple React based application to learn about different hooks.
 
